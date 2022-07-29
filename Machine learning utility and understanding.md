@@ -13,7 +13,7 @@
 
 |![image](https://user-images.githubusercontent.com/47146812/181731093-61df9353-2555-42c9-977d-3555f5d51631.png)|
 |:--:|
-|*Fig 3. Three potential trajectories for the progression of deep learning in 2022.*|
+|*Fig 3. Three potential trajectories for the progression of deep learning in 2022.*|\
 
 
 
