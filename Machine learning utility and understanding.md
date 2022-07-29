@@ -15,7 +15,7 @@
 |:--:|
 |*Fig 3. Three potential trajectories for the progression of deep learning in 2022.*|
 
-|Table I |
+Table 1. Predictions for how select fields of machine learning may or may not progress in the future
 | Field of Research |	Predictions for 2022 onwards |
 |----|----|
 |Deep Learning |	Deep learning will continue to see incremental progress from scaling increasingly large models, without notable advancements to the underlying theory. I have no idea if this will be accompanied (separately) by a paradigm shift-level scientific breakthrough during 2022, but let's hope so! |
@@ -27,4 +27,4 @@
 |Quantum ML|	Quantum ML won't progress until quantum computing achieves a technological leap, which won't happen in 2022. Expect no movement.|
 |✨General AI✨|	Let's not get carried away...|
 
-Table 1. Predictions for how select fields of machine learning may or may not progress in the future
+
