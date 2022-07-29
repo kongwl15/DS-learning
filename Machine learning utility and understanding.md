@@ -14,9 +14,8 @@
 |![image](https://user-images.githubusercontent.com/47146812/181731093-61df9353-2555-42c9-977d-3555f5d51631.png)|
 |:--:|
 |*Fig 3. Three potential trajectories for the progression of deep learning in 2022.*|
-\\
 
-
+\
 
 *Table 1. Predictions for how select fields of machine learning may or may not progress in the future*
 | Field of Research |	Predictions for 2022 onwards |
