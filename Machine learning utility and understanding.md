@@ -3,5 +3,7 @@
 
 [ 用途和理解 ]( https://mp.weixin.qq.com/s/7lKtTv8pgBh4Iatu1tDtoQ )
 
-![Fig 1. Qualitative descriptions for each quadrant. Fields may be described by some or all of the descriptions in their corresponding region](https://user-images.githubusercontent.com/47146812/181729835-1e92565f-6cf5-4468-82a7-788aebe9127f.png)
+|![image](https://user-images.githubusercontent.com/47146812/181729835-1e92565f-6cf5-4468-82a7-788aebe9127f.png)|
+|:--:|
+|*Fig 1. Qualitative descriptions for each quadrant. Fields may be described by some or all of the descriptions in their corresponding region*|
 
