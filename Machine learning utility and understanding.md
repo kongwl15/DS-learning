@@ -10,11 +10,12 @@
 |![image](https://user-images.githubusercontent.com/47146812/181730786-85c77333-f869-447f-8cef-5570dd0471a6.png)|
 |:--:|
 |*Fig 2. Illustrative examples of ways fields can traverse the matrix.*|
+
 |![image](https://user-images.githubusercontent.com/47146812/181731093-61df9353-2555-42c9-977d-3555f5d51631.png)|
 |:--:|
 |*Fig 3. Three potential trajectories for the progression of deep learning in 2022.*|
 
-
+|Table I |
 | Field of Research |	Predictions for 2022 onwards |
 |----|----|
 |Deep Learning |	Deep learning will continue to see incremental progress from scaling increasingly large models, without notable advancements to the underlying theory. I have no idea if this will be accompanied (separately) by a paradigm shift-level scientific breakthrough during 2022, but let's hope so! |
