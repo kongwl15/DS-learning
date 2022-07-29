@@ -26,4 +26,5 @@
 |Interpretable ML|	In 2022, the existing techniques for interpretable ML will see broader adoption within industry. SHAP will establish itself as the de facto starting point (if it hasn't already). Neural networks will still be difficult to grok. Most of the progress will be seen along the utility axis, as standardised best practices emerge.|
 |Quantum ML|	Quantum ML won't progress until quantum computing achieves a technological leap, which won't happen in 2022. Expect no movement.|
 |✨General AI✨|	Let's not get carried away...|
+
 Table 1. Predictions for how select fields of machine learning may or may not progress in the future
