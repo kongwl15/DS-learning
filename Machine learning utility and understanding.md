@@ -15,9 +15,9 @@
 |*Fig 3. Three potential trajectories for the progression of deep learning in 2022.*|
 
 
-|Field of Research|	Predictions for 2022 onwards|
+| Field of Research |	Predictions for 2022 onwards |
 |:--:|
-|Deep Learning|	Deep learning will continue to see incremental progress from scaling increasingly large models, without notable advancements to the underlying theory. I have no idea if this will be accompanied (separately) by a paradigm shift-level scientific breakthrough during 2022, but let's hope so!|
+|Deep Learning |	Deep learning will continue to see incremental progress from scaling increasingly large models, without notable advancements to the underlying theory. I have no idea if this will be accompanied (separately) by a paradigm shift-level scientific breakthrough during 2022, but let's hope so! |
 |Causal Inference|	Studying causality in the real world outside of controlled causal frameworks will continue to be challenging and fraught with pitfalls. It's still unobvious if and how ML could learn and discover causal relationships. I think this is an inherently difficult problem that won't be solved soon, neither theoretically nor in practice.|
 Federated Learning	Federated learning will continue to mature and find further uses on smartphone devices (led by Apple), supported by advancements in on-device AI chipsets. I expect there'll be incremental progress in 2022 as the utility of federated learning on smartphones catches up with the potential of the existing theory. This may eventually be accelerated by regulatory pressure or consumer concerns around data privacy, although I don't expect these to be huge drivers in 2022.
 Reinforcement Learning	Optimistically: in 2022, DeepMind will make a notable advancement in applying deep reinforcement learning to a real-world problem, that will shift reinforcement learning into the top right quadrant. Imitation learning will become an increasingly common starting point for training reinforcement learning models.
