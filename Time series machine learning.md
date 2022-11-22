@@ -10,3 +10,4 @@
   #####   3. Double exponential smoothing: Capture both level and trend
   #####   4. Triple exponential smoothing: Capture level, trend and seasonality
   #### python skitlearn 
+# [seq2seq time series forecasting](https://www.kaggle.com/code/omershect/learning-pytorch-seq2seq-with-m5-data-set/notebook)
