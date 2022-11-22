@@ -10,4 +10,6 @@
   #####   3. Double exponential smoothing: Capture both level and trend
   #####   4. Triple exponential smoothing: Capture level, trend and seasonality
   #### python skitlearn 
-### 3. [seq2seq time series forecasting](https://www.kaggle.com/code/omershect/learning-pytorch-seq2seq-with-m5-data-set/notebook)
+### 3. seq2seq time series forecasting
+####  1. [seq2seq time series forecasting - kaggle](https://www.kaggle.com/code/omershect/learning-pytorch-seq2seq-with-m5-data-set/notebook)
+####  2. [item-prices](https://towardsdatascience.com/encoder-decoder-model-for-multistep-time-series-forecasting-using-pytorch-5d54c6af6e60)
