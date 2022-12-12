@@ -7,3 +7,4 @@
 
 # [bagging, boosting, stacking](https://zhuanlan.zhihu.com/p/39920405)
 # [bagging- bootstrap agreagating](https://zhuanlan.zhihu.com/p/261387233)
+# [ensemble leearning - bagging, boosting, stacking 3 different methods]
