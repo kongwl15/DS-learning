@@ -4,3 +4,5 @@
 # [introduction to GNN](https://theaisummer.com/gnn-architectures/)
 
 # [生成模型 和 判别模型](https://blog.csdn.net/qq_41895003/article/details/109110902)
+
+# [bagging, boosting, stacking](https://zhuanlan.zhihu.com/p/39920405)
