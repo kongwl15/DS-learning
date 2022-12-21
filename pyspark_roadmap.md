@@ -1,0 +1,1 @@
+# [roadmap](https://www.quora.com/Can-someone-provide-me-a-roadmap-for-PySpark-I-am-new-to-Data-Science-and-have-been-asked-to-learn-PySpark-What-are-the-prerequisites-and-what-exactly-PySpark-does-Thank-you)
