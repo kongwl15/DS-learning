@@ -1,5 +1,6 @@
 # [attention blog](https://blog.floydhub.com/attention-mechanism/)
 # [ attetion and Q,K,V](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)![image](https://user-images.githubusercontent.com/47146812/195016578-2feb7b11-1073-4768-b229-13ebd67a682d.png)
+# [attention calculation](https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a)
 # [positional embedding explaination](https://kikaben.com/transformers-positional-encoding/)
 # [introduction to GNN](https://theaisummer.com/gnn-architectures/)
 
