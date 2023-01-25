@@ -2,3 +2,4 @@
 # [PCA - Chinese](https://zhuanlan.zhihu.com/p/77151308)
 # [PCA feature extraction](https://towardsdatascience.com/feature-extraction-techniques-d619b56e31be)
 # [参数-非参数 统计](https://www.ibm.com/docs/zh/ias?topic=nonparametric-background)
+# [抽样分布](https://zhuanlan.zhihu.com/p/136889276)
